@@ -1,0 +1,33 @@
+
+#gathered from the example git repo*
+
+# ==========================================
+# CMake Build Configurations
+# ==========================================
+out/
+build/
+CMakeSettings.json.user
+CMakeUserPresets.json
+
+
+# ==========================================
+# Compiled Binaries & Static Libraries
+# ==========================================
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+
+# ==========================================
+# OS Generated Files
+# ==========================================
+Thumbs.db
+
+# ==========================================
+# CLion / JetBrains IDEs (Popular for cross-platform C++)
+# ==========================================
+.idea/
+cmake-build-*/
